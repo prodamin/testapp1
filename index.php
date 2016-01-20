@@ -2,6 +2,6 @@
 
 
 echo 'Current PHP version: ' . phpversion();
-echo '\n';
+echo '<br>';
 echo 'phpfpm server id: ' . gethostname();
 ?>
